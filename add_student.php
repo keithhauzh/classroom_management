@@ -1,7 +1,7 @@
 <?php
 
     // 1. collect database info
-    $host = 'mysql';
+    $host = 'localhost';
     $database_name = "classroom_management"; // connecting to which database 
     $database_user = "root";
     $database_password = "mysql";
